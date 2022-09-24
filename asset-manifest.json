@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/khojapp/static/css/main.f7dd92a4.css",
+    "main.js": "/khojapp/static/js/main.61886703.js",
+    "static/js/787.c76c049f.chunk.js": "/khojapp/static/js/787.c76c049f.chunk.js",
+    "static/media/khoj.png": "/khojapp/static/media/khoj.a3939b7744b0e288c130.png",
+    "index.html": "/khojapp/index.html",
+    "main.f7dd92a4.css.map": "/khojapp/static/css/main.f7dd92a4.css.map",
+    "main.61886703.js.map": "/khojapp/static/js/main.61886703.js.map",
+    "787.c76c049f.chunk.js.map": "/khojapp/static/js/787.c76c049f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7dd92a4.css",
+    "static/js/main.61886703.js"
+  ]
+}
