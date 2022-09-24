@@ -1,0 +1,7 @@
+.search:hover {
+  color: red;
+}
+.postnavbar div a {
+  text-decoration: none;
+  color: black;
+}

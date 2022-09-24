@@ -1,0 +1,9 @@
+.img-section p a {
+  text-decoration: none;
+  color: black;
+}
+
+.img-section p a:hover {
+  text-decoration: underline;
+  color: blue;
+}
